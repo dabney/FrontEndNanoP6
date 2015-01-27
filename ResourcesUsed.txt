@@ -1,0 +1,4 @@
+This file details resources used to complete Udacity NanoDegree Project 6
+
+Jasmine 2.1 introduction:
+http://jasmine.github.io/2.1/introduction.html
