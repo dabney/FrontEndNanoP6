@@ -1,8 +1,13 @@
 # Front End NanoDegree Project 6 - Jasmine Testing
 To run this project:
 
+1) Connect to the internet and open a browser
+
+2) Navigate to the URL dabney.github.io/frontendnanop6
+
 
 A listing of resources used to complete this project is contained in the ResourcesUsed.txt in this repository.
+
 
 # Project Overview
 
